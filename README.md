@@ -1,2 +1,2 @@
 # Django - Estoque
- Estoque de games
+ Criando um Estoque de games com armazenamento de dados com Django.
